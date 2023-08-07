@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # manage_money
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# ManageMoney
+Aplicacion para calcular los gastos acumulados 
+>>>>>>> e549ac279b55aaa510cb84cab85be64b4e3cee1b
